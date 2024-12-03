@@ -1,3 +1,4 @@
+![preview_readme](https://raw.githubusercontent.com/mzm-uwu/x-embed/refs/heads/main/assets/img/preview_x-embed.png)
 # Twitter Embed Slicing Challenge
 
 This repository contains the solution to the [Twitter Embed Slicing Challenge](https://codedesign.dev/challenge/twitter-embed) provided by [Code Design](https://codedesign.dev). The task involves converting a Figma design into a functional component using **TailwindCSS**.
